@@ -1,8 +1,12 @@
+* {
+    max-width: 100%;
+}
+
 div {
     color: white;
     background-color: red;
     font-size: 30px;
     font-weight: bold;
     text-align: center;
-    max-width: 100%;
+
 }
