@@ -12,7 +12,7 @@ body {
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
-  padding: 10px;
+  padding: 8px;
   display: flex;
   justify-content: flex-start;
 }
@@ -51,12 +51,12 @@ a {
 ul {
   list-style-type: none;
   display: flex;
-  gap: 20px;
+  gap: 16px;
 }
 
 .moving-items {
   display: flex;
   margin-left: auto;
   align-items: center;
-  gap: 10px;
+  gap: 16px;
 }
